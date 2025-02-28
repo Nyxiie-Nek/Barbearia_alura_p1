@@ -13,10 +13,12 @@ body{
 
 h1{ 
    text-align: center; 
+   color: #ffffff;
 }
 
 p{
     text-align: center;
+    color: #ffffff;
 }
 
 #missao{
@@ -38,6 +40,7 @@ padding: 20px;
 
 h2 {
     text-align: center;
+    color: #ffffff;
 }
 
 ul {
@@ -45,6 +48,7 @@ ul {
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
+    color: #ffffff;
 }
 
 .imagem_beneficios {
