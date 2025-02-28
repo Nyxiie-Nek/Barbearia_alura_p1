@@ -1,5 +1,5 @@
 body{
-    
+background-color: #00000000;
 }
 
 #banner{
@@ -7,7 +7,7 @@ body{
 }
 
 .principal {
-    background-color: #00000000;
+    background-color: #b9b9b900;
     padding: 30px;
 }
 
@@ -45,4 +45,8 @@ ul {
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
+}
+
+.imagem_beneficios {
+    width: 50;
 }
