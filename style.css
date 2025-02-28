@@ -35,3 +35,11 @@ en strong{
 background-color: #ffffff;
 padding: 20px;
 }
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+}
